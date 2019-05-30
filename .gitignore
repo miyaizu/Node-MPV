@@ -2,3 +2,12 @@
 test.js
 # node modules
 node_modules
+
+.DS_Store
+*.swp
+~*
+*.pyc
+__pycache__/
+.venv/
+.activate
+
